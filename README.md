@@ -46,4 +46,5 @@ scan the QR code,
 then u're done!
 
 >Path WhatsApp Bot
+
 https://github.com/rizzzky78/rizzzkyRepo/tree/main/XBot
