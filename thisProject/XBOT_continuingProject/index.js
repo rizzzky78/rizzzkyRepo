@@ -6,9 +6,10 @@ Real case from : naylachan
 Open source project
 Revision ver 1.0
 Last edited: 12 Nov 2021
+*Requires WhatsApp API's / Baileys
 ================================
 Marketing Bot | Auto Reply WhatsApp Bot
-Last Edited 27 February 2022
+Last Edited 10 March 2022
 Feel free to continue/mod this project
 Owner Script wa.me/6281329585825 AN: Rizky
 myRepository : https://github.com/rizzzky78/rizzzkyRepo
