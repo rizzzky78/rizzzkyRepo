@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Carnocap",
+    "price": "Rp. 75.000",
+    "image": "https://hni.net/public/front/img/produk/CARNOCAP-1_04-01-19_.png",
+    "category": [
+      {
+        "tag": "Herbal",
+        "tagColor": "green"
+      },
+      {
+        "tag": "Healthy",
+        "tagColor": "orange"
+      }
+    ]
+  },
+  {
+    "title": "Carnocap",
+    "price": "Rp. 75.000",
+    "image": "https://hni.net/public/front/img/produk/CARNOCAP-1_04-01-19_.png",
+    "category": [
+      {
+        "tag": "Herbal",
+        "tagColor": "green"
+      },
+      {
+        "tag": "Healthy",
+        "tagColor": "orange"
+      }
+    ]
+  },
+  {
+    "title": "Bilbery",
+    "price": "Rp. 125.000",
+    "image": "https://hni.net/public/front/img/produk/BILBERRY-1_04-01-19_.png",
+    "category": [
+      {
+        "tag": "Herbal",
+        "tagColor": "green"
+      },
+      {
+        "tag": "Healthy",
+        "tagColor": "orange"
+      },
+      {
+        "tag": "Vitamin",
+        "tagColor": "blue"
+      }
+    ]
+  },
+  {
+    "title": "Habbatussauda",
+    "price": "Rp. 80.000",
+    "image": "https://hni.net/public/front/img/produk/HABBATUSSAUDA%20HPAI_24-08-20_.png",
+    "category": [
+      {
+        "tag": "Herbal",
+        "tagColor": "green"
+      },
+      {
+        "tag": "Healthy",
+        "tagColor": "orange"
+      },
+      {
+        "tag": "Suplemen",
+        "tagColor": "purple"
+      }
+    ]
+  },
+  {
+    "title": "Rosella",
+    "price": "Rp. 175.000",
+    "image": "https://hni.net/public/front/img/produk/ROSELLA-1_04-01-19_.png",
+    "category": [
+      {
+        "tag": "Herbal",
+        "tagColor": "green"
+      },
+      {
+        "tag": "Vitamin",
+        "tagColor": "blue"
+      }
+    ]
+  }
+]
