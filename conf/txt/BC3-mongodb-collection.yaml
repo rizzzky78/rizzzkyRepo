@@ -1,0 +1,11 @@
+collection:
+    customer: C-Customer-BC3-2024
+    customer_payment_proof: C-Payment-Proof-2024
+    order_data_customer: C-Order-Data-2024
+    order_data_approval: C-Order-Data-Approval-2024
+    data_images: C-Data-Images-2024
+    user_session_chat: C-Session-Chat-Data-2024
+
+collection_essential:
+    data_products_main: C-Data-Products-2024
+    data_products_backup: C-Products-Backup
